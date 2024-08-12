@@ -1,0 +1,9 @@
+1,ContaEnergia,150,180,residencial
+2,ContaAgua,50,75,residencial
+3,ContaAgua,80,120,residencial social
+4,ContaAgua,15,28,residencial
+1,ContaEnergia,180,189,residencial
+6,ContaAgua,28,39,residencial
+Albert Sore,ContaEnergia,152,188,residencial
+Logan,ContaEnergia,150,175,residencial
+Logan2,ContaEnergia,140,199,residencial

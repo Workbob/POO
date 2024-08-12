@@ -1,0 +1,2 @@
+Cliente: 1, Tipo de Consumidor: energia, Consumo do Último Mês: 9Cliente: Logan, Tipo de Consumidor: energia, Consumo do Último Mês: 25
+Cliente: Logan2, Tipo de Consumidor: energia, Consumo do Último Mês: 59

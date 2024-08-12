@@ -1,0 +1,31 @@
+C:\Users\User\Desktop\Theus\PESSOAL\Prog\POO - Trabalho Prático\bin\Debug\net7.0\POO - Trabalho Prático.exe
+C:\Users\User\Desktop\Theus\PESSOAL\Prog\POO - Trabalho Prático\bin\Debug\net7.0\POO - Trabalho Prático.deps.json
+C:\Users\User\Desktop\Theus\PESSOAL\Prog\POO - Trabalho Prático\bin\Debug\net7.0\POO - Trabalho Prático.runtimeconfig.json
+C:\Users\User\Desktop\Theus\PESSOAL\Prog\POO - Trabalho Prático\bin\Debug\net7.0\POO - Trabalho Prático.dll
+C:\Users\User\Desktop\Theus\PESSOAL\Prog\POO - Trabalho Prático\bin\Debug\net7.0\POO - Trabalho Prático.pdb
+C:\Users\User\Desktop\Theus\PESSOAL\Prog\POO - Trabalho Prático\obj\Debug\net7.0\POO - Trabalho Prático.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Theus\PESSOAL\Prog\POO - Trabalho Prático\obj\Debug\net7.0\POO - Trabalho Prático.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Theus\PESSOAL\Prog\POO - Trabalho Prático\obj\Debug\net7.0\POO - Trabalho Prático.AssemblyInfo.cs
+C:\Users\User\Desktop\Theus\PESSOAL\Prog\POO - Trabalho Prático\obj\Debug\net7.0\POO - Trabalho Prático.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Theus\PESSOAL\Prog\POO - Trabalho Prático\obj\Debug\net7.0\POO - Trabalho Prático.dll
+C:\Users\User\Desktop\Theus\PESSOAL\Prog\POO - Trabalho Prático\obj\Debug\net7.0\refint\POO - Trabalho Prático.dll
+C:\Users\User\Desktop\Theus\PESSOAL\Prog\POO - Trabalho Prático\obj\Debug\net7.0\POO - Trabalho Prático.pdb
+C:\Users\User\Desktop\Theus\PESSOAL\Prog\POO - Trabalho Prático\obj\Debug\net7.0\POO - Trabalho Prático.genruntimeconfig.cache
+C:\Users\User\Desktop\Theus\PESSOAL\Prog\POO - Trabalho Prático\obj\Debug\net7.0\ref\POO - Trabalho Prático.dll
+c:\Users\WoRkBoBz\Documents\EXERCÍCIOS PUC MINAS\POO\POO - Trabalho Prático\POO - Trabalho Prático\bin\Debug\net7.0\POO - Trabalho Prático.exe
+c:\Users\WoRkBoBz\Documents\EXERCÍCIOS PUC MINAS\POO\POO - Trabalho Prático\POO - Trabalho Prático\bin\Debug\net7.0\POO - Trabalho Prático.deps.json
+c:\Users\WoRkBoBz\Documents\EXERCÍCIOS PUC MINAS\POO\POO - Trabalho Prático\POO - Trabalho Prático\bin\Debug\net7.0\POO - Trabalho Prático.runtimeconfig.json
+c:\Users\WoRkBoBz\Documents\EXERCÍCIOS PUC MINAS\POO\POO - Trabalho Prático\POO - Trabalho Prático\bin\Debug\net7.0\POO - Trabalho Prático.dll
+c:\Users\WoRkBoBz\Documents\EXERCÍCIOS PUC MINAS\POO\POO - Trabalho Prático\POO - Trabalho Prático\bin\Debug\net7.0\POO - Trabalho Prático.pdb
+c:\Users\WoRkBoBz\Documents\EXERCÍCIOS PUC MINAS\POO\POO - Trabalho Prático\POO - Trabalho Prático\obj\Debug\net7.0\POO - Trabalho Prático.csproj.AssemblyReference.cache
+c:\Users\WoRkBoBz\Documents\EXERCÍCIOS PUC MINAS\POO\POO - Trabalho Prático\POO - Trabalho Prático\obj\Debug\net7.0\POO - Trabalho Prático.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\WoRkBoBz\Documents\EXERCÍCIOS PUC MINAS\POO\POO - Trabalho Prático\POO - Trabalho Prático\obj\Debug\net7.0\POO - Trabalho Prático.AssemblyInfoInputs.cache
+c:\Users\WoRkBoBz\Documents\EXERCÍCIOS PUC MINAS\POO\POO - Trabalho Prático\POO - Trabalho Prático\obj\Debug\net7.0\POO - Trabalho Prático.AssemblyInfo.cs
+c:\Users\WoRkBoBz\Documents\EXERCÍCIOS PUC MINAS\POO\POO - Trabalho Prático\POO - Trabalho Prático\obj\Debug\net7.0\POO - Trabalho Prático.csproj.CoreCompileInputs.cache
+c:\Users\WoRkBoBz\Documents\EXERCÍCIOS PUC MINAS\POO\POO - Trabalho Prático\POO - Trabalho Prático\obj\Debug\net7.0\POO - Trabalho Prático.dll
+c:\Users\WoRkBoBz\Documents\EXERCÍCIOS PUC MINAS\POO\POO - Trabalho Prático\POO - Trabalho Prático\obj\Debug\net7.0\refint\POO - Trabalho Prático.dll
+c:\Users\WoRkBoBz\Documents\EXERCÍCIOS PUC MINAS\POO\POO - Trabalho Prático\POO - Trabalho Prático\obj\Debug\net7.0\POO - Trabalho Prático.pdb
+c:\Users\WoRkBoBz\Documents\EXERCÍCIOS PUC MINAS\POO\POO - Trabalho Prático\POO - Trabalho Prático\obj\Debug\net7.0\POO - Trabalho Prático.genruntimeconfig.cache
+c:\Users\WoRkBoBz\Documents\EXERCÍCIOS PUC MINAS\POO\POO - Trabalho Prático\POO - Trabalho Prático\obj\Debug\net7.0\ref\POO - Trabalho Prático.dll
+C:\Users\WoRkBoBz\Documents\EXERCÍCIOS PUC MINAS\POO\POO - Trabalho Prático\POO - Trabalho Prático\obj\Debug\net7.0\Albert.Form1.resources
+C:\Users\WoRkBoBz\Documents\EXERCÍCIOS PUC MINAS\POO\POO - Trabalho Prático\POO - Trabalho Prático\obj\Debug\net7.0\POO - Trabalho Prático.csproj.GenerateResource.cache

@@ -1,0 +1,2 @@
+Cliente: 1, Tipo de Consumidor: energia, Consumo do Último Mês: 9
+Cliente: 1, Tipo de Consumidor: energia, Consumo do Último Mês: 9

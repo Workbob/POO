@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "N7xcI1YSanjr44UwtWqJENGwXevZjiKGoTKYkUVav06rPKljfFTQG5k38HDECMVknKs9qf+/kADOiXL3/QTdUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WoRkBoBz\\Documents\\EXERCÍCIOS PUC MINAS\\POO\\POO - Trabalho Prático\\POO - Trabalho Prático\\POO - Trabalho Prático.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WoRkBoBz\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\WoRkBoBz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\WoRkBoBz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\WoRkBoBz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
